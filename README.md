@@ -14,11 +14,9 @@ MAC Address
 2. Impersonate other devices.
 3. Bypass filters.
 
-# For Unix/Linux systems.
-
 # Network_Scanner - network_scanner.py
 ● Discover all devices on the network.
 ● Display their IP address.
 ● Display their MAC address.
 
-# made by markinih0s.
+# All the tools are for Unix/Linux systems and they are made by markinih0s.
