@@ -1,12 +1,12 @@
 # PythonTools
-In this repository im goona upload everytime a Python Ethical Hacking tools for scanning and enumerating systems that made by me.
+In this repository im gonna upload everytime a Python Ethical Hacking tools for scanning and enumerating systems that made by me.
 
 # Mac Changer Tool - mac_changer.py
 MAC Address
 ● Media Access Control
-○ Permanent.
-○ Physical.
-○ Unique.
+● Permanent.
+● Physical.
+● Unique.
 ● Assigned by manufacturer. 
 
 # Why should we change the MAC Address?
@@ -19,4 +19,4 @@ MAC Address
 ● Display their IP address.
 ● Display their MAC address.
 
-# All the tools are for Unix/Linux systems and they are made by markinih0s.
+* All the tools are for Unix/Linux systems and they are made by markinih0s.
