@@ -19,4 +19,3 @@ MAC Address
 ● Display their IP address.
 ● Display their MAC address.
 
-* All the tools are for Unix/Linux systems and they are made by markinih0s.
